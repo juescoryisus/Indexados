@@ -1,0 +1,10 @@
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\bin\Debug\Secuencialesindexados.exe.config
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\bin\Debug\Secuencialesindexados.exe
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\bin\Debug\Secuencialesindexados.pdb
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\obj\Debug\Secuencialesindexados.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\obj\Debug\Secuencialesindexados.Form1.resources
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\obj\Debug\Secuencialesindexados.Properties.Resources.resources
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\obj\Debug\Secuencialesindexados.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\obj\Debug\Secuencialesindexados.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\obj\Debug\Secuencialesindexados.exe
+C:\Users\jesus\source\repos\Secuencialesindexados\Secuencialesindexados\obj\Debug\Secuencialesindexados.pdb
